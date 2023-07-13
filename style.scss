@@ -369,7 +369,7 @@
     .payment-option {
       list-style: none;
       padding: 0;
-      margin: 0;
+      margin: 0 0 32px 0;
       display: flex;
       align-items: center;
       flex-wrap: nowrap;
@@ -437,10 +437,7 @@
       }
     }
 
-    // .payment-form {
-    //   padding: 32px 0;
-    // }
-
+   
     .transaction-status {
       margin-bottom: 32px;
 
